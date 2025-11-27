@@ -117,8 +117,6 @@ header {
     border: 1px solid #4b5563;
     color: #9ca3af;
     box-shadow: none;
-    cursor: not-allowed;
-    pointer-events: none; /* No permite clics */
     filter: grayscale(80%);
 }
 
